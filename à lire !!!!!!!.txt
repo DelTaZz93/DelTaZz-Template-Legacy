@@ -1,0 +1,2 @@
+Avant de lancer la base oublier pas d'installer le cfx-server-data
+https://github.com/citizenfx/cfx-server-data
